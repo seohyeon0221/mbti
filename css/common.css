@@ -79,16 +79,15 @@ body{
 }
 
 .btn-gray{
-  background-color: #f2f4f6;
-  box-shadow: 0 14px 0 #dfe1e2;
-  color: #444444;
-
+   background-color: #f2f4f6; 
+   box-shadow: 0 14px 0 #dfe1e2; 
+   color: #444;
 }
-
 .btn-gray:active{ 
   box-shadow: 0 4px 0 #dfe1e2; 
   transform: translate(10px);
 }
+
 
 img{
   display: block;
