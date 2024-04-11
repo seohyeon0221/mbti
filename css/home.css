@@ -1,0 +1,19 @@
+body{
+  background-color: #f6fcff;
+  background-image: url("../images/main_bg.jpg");
+  background-position: top center;
+  background-repeat: no-repeat;
+  
+}
+/* 중앙이미지를 정가운데 위치시키기 */
+/* 화면크기(가로)가 줄어들때 화면너비를 100% 이용헤서 */
+/* 자동으로 이미지 크기를 줄이기 */
+.character{
+  width: 100%;
+  max-width: 364px;
+  margin-left: auto;
+  margin-right: auto;
+  /* 이미지는 글자요소=>: 중앙정렬이 안됩니다 */
+ 
+  margin-bottom: 40px;
+}
